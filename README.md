@@ -1,7 +1,7 @@
 # SOBRE-MIM
 HABILIDADES E CONHECIMENTOS
 
-# Resumo: Desenvolvimento Web com Visual Studio Community, Codespaces GitHub, React, Java, C, C#, SQL e Google AI Studio**
+# Resumo: Fullstack, desenvolvimento Web, Python, React, Java, C, C#, SQL**
 
   O desenvolvimento web moderno envolve a integração de múltiplas linguagens, ferramentas e ambientes de programação para criar soluções completas, seguras e escaláveis. Utilizando o **Visual Studio Community** e o **GitHub Codespaces**, é possível desenvolver aplicações de forma colaborativa e integrada, com controle de versão, ambientes virtuais e automação de deploys.
 
